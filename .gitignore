@@ -1,0 +1,46 @@
+/.DS_Store
+/.idea
+/out
+*.swp
+*.lock
+#android project
+
+/android/.gradle
+/android/.DS_Store
+/android/build/
+/android/src/main/bin/
+/android/src/main/gen/
+/android/.idea/
+/android/android.iml
+/android/.gradle
+
+#server project
+
+/server/target
+/server/.classpath
+/server/.settings
+/server/.project
+/document/.DS_Store
+/server/.DS_Store
+
+
+# Xcode
+/ios/build/*
+/ios/*.pbxuser
+/ios/!default.pbxuser
+/ios/*.mode1v3
+/ios/!default.mode1v3
+/ios/*.mode2v3
+/ios/!default.mode2v3
+/ios/*.perspectivev3
+/ios/!default.perspectivev3
+/ios/*.xcworkspace
+/ios/!default.xcworkspace
+/ios/xcuserdata
+/ios/profile
+/ios/*.moved-aside
+ 
+/ios/docset-installed.txt
+/ios/.DS_Store
+ 
+/ios/Podfile.lock
